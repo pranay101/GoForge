@@ -133,4 +133,4 @@ EOF
     docker run -p 8080:8080 "$PROJECT_NAME"
 fi
 
-echo "🎉 Setup complete! Access the app at http://localhost:8080"
+echo "🎉 Setup complete!"
