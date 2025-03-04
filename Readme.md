@@ -1,14 +1,12 @@
-### **🚀 Project Name Suggestion: `GoForge `**  
-A simple yet powerful name that signifies **launching** a **production-ready** Go application with ease.  
+#  🚀 GoForge   
+### Fast, production-ready Go Project starter 
 
 ---
 
 ## **📄 README for `GoForge`**
-Here's a detailed **README.md** for your project:
 
 ---
 
-```md
 # 🚀 GoForge - Production-Ready Go Starter
 
 GoForge is a **production-ready** boilerplate for building robust Go applications. It automates setup, dependency management, environment configuration, and Docker deployment.
@@ -42,7 +40,7 @@ chmod +x setup.sh  # Give execute permission (Linux/macOS)
 For **Windows (Git Bash)**, use:
 ```sh
 bash setup.sh
-```
+
 
 ---
 
@@ -91,7 +89,7 @@ APP_ENV=production
 ## 📡 API Endpoints
 | Method | Endpoint  | Description  |
 |--------|----------|--------------|
-| GET    | `/`      | Returns "Hello, Go Production App!" |
+| GET    | `/`      | Returns "Hello, Go App!" |
 
 ---
 
