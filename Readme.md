@@ -61,6 +61,16 @@ go build -o app main.go
 docker build -t GoForge .
 docker run -p 8080:8080 GoForge
 ```
+Sure! Here’s a **shorter** version of the steps to create your own Go module:  
+
+---
+
+## **📦 Creating Your Own Go Module**  
+
+**Create a package**  
+```sh
+./forge-module.sh
+```
 
 ---
 
