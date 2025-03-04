@@ -31,22 +31,19 @@ chmod +x setup.sh  # Give execute permission (Linux/macOS)
 For **Windows (Git Bash)**, use:
 ```sh
 bash setup.sh
-
-
----
+```
 
 ## 📁 Project Structure
-```
-GoForge/
-│── main.go           # Entry point of the application
-│── go.mod            # Go module dependencies
-│── .env              # Environment variables (if applicable)
-│── Dockerfile        # Docker containerization (Optional)
-│── setup.sh          # Automated project setup script
-└── README.md         # Documentation
-```
 
----
+```md
+GoForge/  
+│── main.go           # Entry point of the application  
+│── go.mod            # Go module dependencies  
+│── .env              # Environment variables (if applicable)  
+│── Dockerfile        # Docker containerization (Optional)  
+│── setup.sh          # Automated project setup script  
+└── README.md         # Documentation  
+```
 
 ## 📜 Running the Project
 ### 🏃 **Run Locally**
