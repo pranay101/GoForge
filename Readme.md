@@ -1,15 +1,6 @@
 #  🚀 GoForge   
 ### Fast, production-ready Go Project starter 
 
----
-
-## **📄 README for `GoForge`**
-
----
-
-# 🚀 GoForge - Production-Ready Go Starter
-
-GoForge is a **production-ready** boilerplate for building robust Go applications. It automates setup, dependency management, environment configuration, and Docker deployment.
 
 ## ✨ Features
 
